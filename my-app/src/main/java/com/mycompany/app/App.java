@@ -12,5 +12,3 @@ public class App
     }
 }
 
-This is error !
-And more error !!
