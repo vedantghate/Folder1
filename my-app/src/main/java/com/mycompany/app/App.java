@@ -12,4 +12,3 @@ public class App
     }
 }
 
-This is me introducing errors in Java file
