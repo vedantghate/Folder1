@@ -11,8 +11,8 @@ public class App
 <<<<<<< HEAD
         System.out.println( "Hello World, this is deve1 from ameya laptop anup login !" );
 =======
-        System.out.println( "Hello World, this is folder1 !" );
->>>>>>> 798285d83e3f37177a3496c2f6b234e7f2e763a6
+        System.out.println( "Hello World, this is folder1 again !" );
+>>>>>>> 44aae0a7b7c2c79421d8049a29d41928587b0a60
     }
 }
 
