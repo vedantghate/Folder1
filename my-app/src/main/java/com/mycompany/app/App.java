@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World, this is folder1 !" );
+        System.out.println( "Hello World, this is folder1 again !" );
     }
 }
 
